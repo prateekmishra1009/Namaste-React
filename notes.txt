@@ -1,0 +1,10 @@
+parcel is a beast
+
+dev build
+local server
+HMR= hot module replacement
+FIle watching algo
+tree shaking ==> remove unused code.
+error handeling
+differential bundeling support older browsers
+
